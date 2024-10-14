@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="incorrect_toast">Ban da chon SAI dap an!</string>
+    <string name="correct_toast">Ban da chon DUNG dap an!</string>
+
+    <string name="question1">1 + 2 = 3?</string>
+    <string name="question2">2 * 3 = 8?</string>
+    <string name="question3">9 / 2 = 4?</string>
+    <string name="question4">4 + 2 = 6?</string>
+    <string name="question5">10 + 2 = 30?</string>
+
+</resources>
